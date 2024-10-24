@@ -4,7 +4,7 @@
 
 [submodule "ext/NaxSoftware"]
 	path = ext/NaxSoftware
-	url = https://github.com/denishoornaert/NaxSoftware.git
+	url = https://github.com/denishoornaert/DyPACC-NaxSoftware.git
 [submodule "ext/riscv-isa-sim"]
 	path = ext/riscv-isa-sim
 	url = https://github.com/SpinalHDL/riscv-isa-sim.git
@@ -13,4 +13,4 @@
 	url = https://github.com/SpinalHDL/rvls.git
 [submodule "ext/SpinalHDL"]
 	path = ext/SpinalHDL
-	url = https://github.com/denishoornaert/SpinalHDL.git
+	url = https://github.com/denishoornaert/DyPACC-SpinalHDL.git
